@@ -50,6 +50,10 @@ Soy un <strong>Full Stack Developer</strong> especializado en <strong>Spring Boo
 
 ### 📊 Proyectos destacados
 
+#### 🔹 Sistema de Gestión Académica - API WebFlux
+- Spring Webflux, MongoDB, PDF, Seguridad, Docker y Microservicios
+- [🔗 Proyecto](https://github.com/andycvv/api-academia)
+
 #### 🔹 Sistema de Reservas de Mesas
 - Spring Boot, Angular, MySQL, PDF, Seguridad y Azure
 - [🔗 Backend](https://github.com/andycvv/api-reservas-mesas) | [🔗 Frontend](https://github.com/andycvv/front-reservas-mesas)
