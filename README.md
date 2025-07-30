@@ -42,9 +42,9 @@ Soy un <strong>Full Stack Developer</strong> especializado en <strong>Spring Boo
 
 ### 📚 Certificados
 
+- Curso avanzado de Spring WebFlux, Testing, Microservicios y Seguridad JWT
 - Spring Boot & Angular - Microservicios: Aplicación hotelera
 - .NET Core & Angular 19 - Aplicación de películas
-- Curso avanzado de Spring WebFlux, Testing y Seguridad (en curso)
 
 ---
 
